@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://example.com
+https://avi-darbuka-show.zappy5.app
 הפוך את האירוע שלך לחוויה סוחפת עם מופע דרבוקה מקצועי הכולל אפקטים של תאורת LED. חפלות, חתונות ובר מצווה ברמה אחרת. הזמן עכשיו חגיגה בלתי נשכחת!
 
 ### חוויית המופע
-https://example.com/show-experience
+https://avi-darbuka-show.zappy5.app/show-experience
 צלילי דרבוקה סוחפים בשילוב מופע אור מרהיב שיסחפו את האורחים. חוויה מוזיקלית ייחודית שמשלבת מסורת ואנרגיה מודרנית לכל סוגי האירועים. לחצו להתרשם!
 
 ### אירועים
-https://example.com/events
+https://avi-darbuka-show.zappy5.app/events
 מחפש נגן דרבוקה לאירוע שלך? הפק מופעי דרבוקה ותאורת LED מותאמים אישית לחתונות, בר מצווה, חפלות ובריתות. הפוך כל רגע לחגיגה קצבית וצבעונית!
 
 ### אודות אבי
-https://example.com/about
+https://avi-darbuka-show.zappy5.app/about
 אבי מביא את תשוקת הדרבוקה לכל במה עם שנים של ניסיון ואנרגיה מדבקת. גלו את הסיפור מאחורי המופע שמשגע קהלים בחתונות, חפלות ובר מצווה. קראו עוד!
 
 ### צור קשר
-https://example.com/contact
+https://avi-darbuka-show.zappy5.app/contact
 מוכנים להזמין מופע דרבוקה עם תאורת LED שיעיף את האירוע? השאירו פרטים עכשיו ונחזור אליכם עם הצעה מותאמת לחתונה, בר מצווה או חפלה. צרו קשר!
 
 ### תודה שפניתם אלינו
-https://example.com/thank-you
+https://avi-darbuka-show.zappy5.app/thank-you
 Avi Darbuka SHOW - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://avi-darbuka-show.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://avi-darbuka-show.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://avi-darbuka-show.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -53,8 +53,8 @@ Information about WCAG compliance and accessibility features.
 - Address: איילת השחר 1, אור יהודה, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://avi-darbuka-show.zappy5.app/contact
+- Endpoint: https://avi-darbuka-show.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -84,6 +84,6 @@ Entertainment & Live Performance
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://avi-darbuka-show.zappy5.app/sitemap.xml
+- Robots: https://avi-darbuka-show.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://avi-darbuka-show.zappy5.app/llms-full.txt

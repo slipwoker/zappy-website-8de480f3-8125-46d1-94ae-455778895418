@@ -2,13 +2,13 @@
 
 A professional darbuka (Middle Eastern drum) performer who delivers stunning live performances at all types of events including weddings, bar/bat mitzvahs, brit milah ceremonies, and haflas. His shows feature a unique combination of darbuka drumming with LED lighting effects, creating a visually and musically breathtaking experience. The brand is energetic, festive, and culturally rich, aiming to elevate any celebration with an unforgettable live performance.
 
-Source: https://example.com
+Source: https://avi-darbuka-show.zappy5.app
 
 ---
 
 ## חפלות ומופעי דרבוקה עם תאורת LED — Avi Darbuka SHOW
 
-URL: https://example.com
+URL: https://avi-darbuka-show.zappy5.app
 Description: הפוך את האירוע שלך לחוויה סוחפת עם מופע דרבוקה מקצועי הכולל אפקטים של תאורת LED. חפלות, חתונות ובר מצווה ברמה אחרת. הזמן עכשיו חגיגה בלתי נשכחת!
 
 חפלות ומופעי דרבוקה עם תאורת LED — Avi Darbuka SHOW
@@ -511,7 +511,7 @@ Description: הפוך את האירוע שלך לחוויה סוחפת עם מו
 
 ## גלו את קסם הקצב — חוויית המופע — Avi Darbuka SHOW
 
-URL: https://example.com/show-experience
+URL: https://avi-darbuka-show.zappy5.app/show-experience
 Description: צלילי דרבוקה סוחפים בשילוב מופע אור מרהיב שיסחפו את האורחים. חוויה מוזיקלית ייחודית שמשלבת מסורת ואנרגיה מודרנית לכל סוגי האירועים. לחצו להתרשם!
 
 גלו את קסם הקצב — חוויית המופע — Avi Darbuka SHOW
@@ -981,7 +981,7 @@ Description: צלילי דרבוקה סוחפים בשילוב מופע אור �
 
 ## מבר מצווה ועד חתונה — אירועים עם דרבוקה — Avi Darbuka SHOW
 
-URL: https://example.com/events
+URL: https://avi-darbuka-show.zappy5.app/events
 Description: מחפש נגן דרבוקה לאירוע שלך? הפק מופעי דרבוקה ותאורת LED מותאמים אישית לחתונות, בר מצווה, חפלות ובריתות. הפוך כל רגע לחגיגה קצבית וצבעונית!
 
 מבר מצווה ועד חתונה — אירועים עם דרבוקה — Avi Darbuka SHOW
@@ -1400,7 +1400,7 @@ Description: מחפש נגן דרבוקה לאירוע שלך? הפק מופעי
 
 ## הכירו את המאסטרו של הדרבוקה — אודות אבי — Avi Darbuka SHOW
 
-URL: https://example.com/about
+URL: https://avi-darbuka-show.zappy5.app/about
 Description: אבי מביא את תשוקת הדרבוקה לכל במה עם שנים של ניסיון ואנרגיה מדבקת. גלו את הסיפור מאחורי המופע שמשגע קהלים בחתונות, חפלות ובר מצווה. קראו עוד!
 
 הכירו את המאסטרו של הדרבוקה — אודות אבי — Avi Darbuka SHOW
@@ -1779,7 +1779,7 @@ Description: אבי מביא את תשוקת הדרבוקה לכל במה עם �
 
 ## בואו נתחיל לתכנן את החגיגה — צור קשר — Avi Darbuka SHOW
 
-URL: https://example.com/contact
+URL: https://avi-darbuka-show.zappy5.app/contact
 Description: מוכנים להזמין מופע דרבוקה עם תאורת LED שיעיף את האירוע? השאירו פרטים עכשיו ונחזור אליכם עם הצעה מותאמת לחתונה, בר מצווה או חפלה. צרו קשר!
 
 בואו נתחיל לתכנן את החגיגה — צור קשר — Avi Darbuka SHOW
@@ -2135,7 +2135,7 @@ Description: מוכנים להזמין מופע דרבוקה עם תאורת LED
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://avi-darbuka-show.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2396,7 +2396,7 @@ Avi Darbuka SHOW ("החברה", "אנו", "שלנו") מחויבת להגן על
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://avi-darbuka-show.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2666,7 +2666,7 @@ Avi Darbuka SHOW מחויבת להנגיש את השירותים לכלל הצי
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://avi-darbuka-show.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2955,7 +2955,7 @@ Avi Darbuka SHOW מספקת Entertainment & Live Performance דרך האתר. ה
 
 ## תודה שפניתם אלינו
 
-URL: https://example.com/thank-you
+URL: https://avi-darbuka-show.zappy5.app/thank-you
 Description: Avi Darbuka SHOW - תודה שפניתם אלינו
 
 תודה שפניתם אלינו
