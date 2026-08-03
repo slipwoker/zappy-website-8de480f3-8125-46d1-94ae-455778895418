@@ -1,0 +1,87 @@
+# Avi Darbuka SHOW — Generative Engine Optimization Map
+
+> A professional darbuka (Middle Eastern drum) performer who delivers stunning live performances at all types of events including weddings, bar/bat mitzvahs, brit milah ceremonies, and haflas. His shows feature a unique combination of darbuka drumming with LED lighting effects, creating a visually and musically breathtaking experience. The brand is energetic, festive, and culturally rich, aiming to elevate any celebration with an unforgettable live performance.
+
+---
+
+## Pages
+
+### בית
+https://avi-darbuka-show-8de480f3.zappy5.app
+הפוך את האירוע שלך לחוויה סוחפת עם מופע דרבוקה מקצועי הכולל אפקטים של תאורת LED. חפלות, חתונות ובר מצווה ברמה אחרת. הזמן עכשיו חגיגה בלתי נשכחת!
+
+### חוויית המופע
+https://avi-darbuka-show-8de480f3.zappy5.app/show-experience
+צלילי דרבוקה סוחפים בשילוב מופע אור מרהיב שיסחפו את האורחים. חוויה מוזיקלית ייחודית שמשלבת מסורת ואנרגיה מודרנית לכל סוגי האירועים. לחצו להתרשם!
+
+### אירועים
+https://avi-darbuka-show-8de480f3.zappy5.app/events
+מחפש נגן דרבוקה לאירוע שלך? הפק מופעי דרבוקה ותאורת LED מותאמים אישית לחתונות, בר מצווה, חפלות ובריתות. הפוך כל רגע לחגיגה קצבית וצבעונית!
+
+### אודות אבי
+https://avi-darbuka-show-8de480f3.zappy5.app/about
+אבי מביא את תשוקת הדרבוקה לכל במה עם שנים של ניסיון ואנרגיה מדבקת. גלו את הסיפור מאחורי המופע שמשגע קהלים בחתונות, חפלות ובר מצווה. קראו עוד!
+
+### צור קשר
+https://avi-darbuka-show-8de480f3.zappy5.app/contact
+מוכנים להזמין מופע דרבוקה עם תאורת LED שיעיף את האירוע? השאירו פרטים עכשיו ונחזור אליכם עם הצעה מותאמת לחתונה, בר מצווה או חפלה. צרו קשר!
+
+### תודה שפניתם אלינו
+https://avi-darbuka-show-8de480f3.zappy5.app/thank-you
+Avi Darbuka SHOW - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://avi-darbuka-show-8de480f3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://avi-darbuka-show-8de480f3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://avi-darbuka-show-8de480f3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://avi-darbuka-show-8de480f3.zappy5.app/contact
+- Endpoint: https://avi-darbuka-show-8de480f3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Avi Darbuka SHOW
+A professional darbuka (Middle Eastern drum) performer who delivers stunning live performances at all types of events including weddings, bar/bat mitzvahs, brit milah ceremonies, and haflas. His shows feature a unique combination of darbuka drumming with LED lighting effects, creating a visually and musically breathtaking experience. The brand is energetic, festive, and culturally rich, aiming to elevate any celebration with an unforgettable live performance.
+
+## Target Audience
+- זוגות ומשפחות המתכננים אירועים כגון חתונות, בר/בת מצווה, בריתות וחפלות
+- זוגות לאירועים משפחתיים
+- מתכנני אירועים תרבותיים
+- מארגני אירועים עסקיים
+
+## Industry
+Entertainment & Live Performance
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://avi-darbuka-show-8de480f3.zappy5.app/sitemap.xml
+- Robots: https://avi-darbuka-show-8de480f3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://avi-darbuka-show-8de480f3.zappy5.app/llms-full.txt
