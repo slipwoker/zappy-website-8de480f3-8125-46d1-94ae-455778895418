@@ -48,7 +48,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: 0527988895
+- Phone (tel): tel:0527988895
+- Address: איילת השחר 1, אור יהודה, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
